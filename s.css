@@ -1,0 +1,123 @@
+/* 1 genaral */
+
+
+/**{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root{
+    background-color
+    --primary-color:#4458dc;
+    --secundery-color:#854fee;
+    --bg-white:white;
+    --bg-light:white;
+    --bg-black:black;
+    --bg-gray:gray;
+    /* --gradient:liner-gradient(to right,blue 0%,pink 100%),radianl-pradient() */
+/* } 
+ body{
+    font-family: var(--secundery-color);
+    width: 100%;
+    background-image: url('');
+    background-repeat: no-repeat;
+}
+a{
+    text-decoration: none;
+}
+::-webkit-scrollbar{
+    width: 0.25rem;
+}
+::-webkit-scrollbar-track{
+    background: var(--bg-gray);
+}
+::-webkit-scrollbar-thumb{
+    background: var(--primary-color);
+}
+section{
+    padding: 5rem 0;  */
+/* }
+.main-btn{
+    display: var(--primary-color);
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 2.875rem;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 0.3125rem;
+    box-shadow: 0 0.625rem 1.875rem rgb(118 85 225/30%);
+    border: double0.125rem transparent;
+    padding: 0 2.625rem;
+    transition: all .3s ease-in-out;
+    --webkit-transition: all .3s ease-in-out;
+} */
+
+.navbar{
+    background-color: rgb(0, 0, 0);
+    /* margin-left: 50px; */
+    /* padding-left: 300px; */
+}
+.collapse{
+    padding-left: 370px;
+    text-align: center;
+    align-items: center;
+}
+.navbar-nav{
+    gap: 50px;
+}
+#carouselExampleCaptions{
+    margin-top: 50px;
+    padding-top: 5300
+}
+ /* .col-auto{
+    object-fit: cover;
+    width: 10vw;
+    height: 10vw; 
+} */
+/* .px-4{
+    margin-top: 20px;
+    padding-top: 2px;
+} */
+/* .container{
+     margin-top: 50px;
+    padding-top: 20px; 
+} */
+ #About{
+    align-items: center;
+    align-content: center;
+    height: 700px;
+   
+}
+/* #Skills{
+  height: 700px;
+  margin-top: 25px;
+  margin-top: 50px;
+} */
+.pb-2 {
+    margin-top: 50px;
+    padding-top: 10px;
+}
+
+.row{
+    margin: 20px;
+}
+ /* #about1{
+    margin: 50px;
+    padding: 40px;
+ } */
+.card-img-top{
+    object-fit:cover;
+    height: 300px;
+    
+}
+.work{
+    margin-left: 440px;
+    /* margin-top: 20px;
+    padding-top: 20px; */
+}
+.imgi{
+    /* height: 10px;
+    width: 10px; */
+    display: flex;
+}
